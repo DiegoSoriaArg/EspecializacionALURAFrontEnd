@@ -6,4 +6,4 @@ Puedes observar la practica de Arquitectura CSS en netlify: [Clic Aqui!](https:/
 
 Puedes observar la practica de Lista de tareas en netlify: [Clic Aqui!](https://todolistsoriadev.netlify.app/)
 
-Puedes observar la practica de Lista de tareas en netlify: [Clic Aqui!](https://petshopsoriadev.netlify.app/)
+Puedes observar la practica de Validaciones en netlify: [Clic Aqui!](https://petshopsoriadev.netlify.app/)
